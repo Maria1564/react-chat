@@ -1,0 +1,11 @@
+.btn-delete {
+    background: linear-gradient(92.68deg, #ffffff 0%, #80c6ee 100%);
+    border-radius: 6px;
+    border: 1px solid #4c9ef5;
+    padding: 9px 11px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 23px;
+    color: #166bc4;
+}

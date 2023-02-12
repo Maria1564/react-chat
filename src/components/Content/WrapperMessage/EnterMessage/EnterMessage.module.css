@@ -1,0 +1,39 @@
+.enter-message {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.enter-message-input {
+    box-sizing: border-box;
+    border: none;
+    border-top: 2px solid rgba(112, 124, 151, 0.15);
+    border-radius: 2px;
+    outline: none;
+
+    width: 600px;
+    padding: 28px 20px;
+
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+
+}
+
+.enter-message-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.enter-icon {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+    background: linear-gradient(325.78deg, #2A8BF2 14.76%, #7CB8F7 87.3%);
+    box-shadow: 4px 4px 25px rgba(42, 139, 242, 0.15), 2px 2px 25px rgba(42, 139, 242, 0.05), 4px 6px 10px rgba(42, 139, 242, 0.15);
+}

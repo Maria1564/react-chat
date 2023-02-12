@@ -1,0 +1,7 @@
+.wrapper-chat {
+  width: 580px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 60px;
+  /* margin-top: 110px; */
+}

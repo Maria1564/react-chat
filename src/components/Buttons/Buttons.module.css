@@ -1,0 +1,23 @@
+
+
+.logout {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-left: 38px;
+    padding-bottom: 48px;
+   
+}
+
+.btn {
+    background: white ;
+    border: none;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #707C97;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
